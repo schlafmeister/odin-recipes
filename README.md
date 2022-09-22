@@ -1,1 +1,2 @@
 # odin-recipes
+I have learned how to perform basic navigation through the command line, have a general understanding of the use of git and github as well as a rough knowledge on how to commit through them. I have learned some of the cornerstone commands in HTML to begin building barebones sites/content.
